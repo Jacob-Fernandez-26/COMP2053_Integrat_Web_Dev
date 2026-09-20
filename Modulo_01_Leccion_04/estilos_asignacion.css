@@ -1,0 +1,16 @@
+p {
+    color: red;
+}
+
+.blue-text {
+    color: blue;
+}
+
+#titulo-principal {
+    color: rgb(13, 80, 215);
+    background-color: lightpink;
+}
+#segundo-titulo {
+    color: darkcyan;
+    background-color: whitesmoke;
+}
